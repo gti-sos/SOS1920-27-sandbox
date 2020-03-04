@@ -1,0 +1,19 @@
+{
+  "name": "tiempo",
+  "version": "1.0.0",
+  "description": "mostrar hora del pc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/gti-sos/SOS1920-27-sandbox.git)"
+  },
+  "author": "sos192027",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
